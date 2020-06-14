@@ -4,3 +4,5 @@ bin
 .DS_Store
 appsettings.json
 *.db
+*/node_modules
+client/node_modules
