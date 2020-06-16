@@ -1,1 +1,3 @@
 dotnet ef database drop -p Persistence/ -s API/
+
+npm i mobx mobx-react-lite
